@@ -1,0 +1,20 @@
+{
+	"name" : "Map objects",
+	"description" : "New adventure map objects.",
+	"version" : "1.0.0",
+	"author" : "Warmonger, Andruids (graphics)",
+	"contact" : "",
+	"modType" : "Objects",
+    "objects" :
+    [ 
+		"config/centralWarehouse"
+	],
+	"compatibility" :
+	{
+		"min" : "1.4.0"
+	},
+	"changelog" :
+    {
+		"1.0.0"   : [ "Initial release" ]
+    }
+}
