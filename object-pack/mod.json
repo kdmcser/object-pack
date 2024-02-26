@@ -9,6 +9,13 @@
     [ 
 		"config/centralWarehouse"
 	],
+	"chinese" : {
+		"name" : "地图物体",
+		"description" : "新冒险地图物体",
+		"translations" : [
+			"translation/map objects/chinese.json"
+		]
+	},
 	"compatibility" :
 	{
 		"min" : "1.4.0"
