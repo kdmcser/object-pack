@@ -1,7 +1,7 @@
 {
 	"name" : "Map objects",
 	"description" : "New adventure map objects.",
-	"version" : "1.0.0",
+	"version" : "1.0.2",
 	"author" : "Warmonger, Andruids (graphics)",
 	"contact" : "",
 	"modType" : "Objects",
@@ -16,12 +16,21 @@
 			"translation/map objects/chinese.json"
 		]
 	},
+	"russian" : {
+		"name" : "Новые объекты",
+		"description" : "Новые объекты",
+		"translations" : [
+			"translation/map objects/russian.json"
+		]
+	},
 	"compatibility" :
 	{
 		"min" : "1.4.0"
 	},
 	"changelog" :
     {
+		"1.0.2"   : [ "Russian translation by Anton Sergeew" ],
+		"1.0.1"   : [ "Chinese translation" ],
 		"1.0.0"   : [ "Initial release" ]
     }
 }

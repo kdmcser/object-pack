@@ -1,0 +1,6 @@
+{
+    "mapObject.object-pack.warehouses.centralWarehouse.name" : "Центральный склад",
+    "mapObject.object-pack.warehouses.centralWarehouse.rewards.0" : "{Центральный склад}\r\n\r\nВладелец склада торопливо говорит вам:“Господи, я собрал для вас все ресурсы из ближайших производственных точек. Пожалуйста, приходите на следующей неделе за новой партией!”",
+    "mapObject.object-pack.warehouses.centralWarehouse.onVisited" : "{Центральный склад}\r\n\r\nВладелец склада извинился:“Прости, Господи, у нас пусто. Пожалуйста, приходи на следующей неделе!”",
+    "object.object-pack.warehouses.name" : "Центральный склад",
+}
