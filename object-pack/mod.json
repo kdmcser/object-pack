@@ -17,8 +17,8 @@
 		]
 	},
 	"russian" : {
-		"name" : "Новые объекты",
-		"description" : "Новые объекты",
+		"name" : "Объекты карты",
+		"description" : "Новые объекты карты приключений.",
 		"translations" : [
 			"translation/map objects/russian.json"
 		]
