@@ -1,0 +1,29 @@
+{
+	"core:creatureGeneratorCommon" : {
+		"types" : {
+			"golemFactoryNormal" : {
+				"name" : "Golem Factory",
+				"creatures" : [[ "ironGolem" ]],
+				"sounds" : {
+					"ambient" : ["LOOPFACT"]
+				},
+				"templates" : {
+					"default" : {
+						"animation" : "AVGgolm0",
+						"mask" : [ "VVV", "VVV", "VVV", "VBA" ]
+					}
+				}
+			}
+		}
+	},
+	"core:creatureGeneratorSpecial" : {
+		"types" : {
+			"golemFactory" : {
+				"creatures" : [
+					[ "ironGolem" ],
+					[ "stoneGolem" ]
+				]
+			}
+		}
+	}
+}

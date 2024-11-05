@@ -18,6 +18,10 @@
 				"rewards" :
 				[
 					{
+						"limiter":
+						{
+							"numOfGrants": 1
+						},
 						"resources":
                         {
                             "wood": 10,

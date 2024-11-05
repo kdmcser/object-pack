@@ -1,0 +1,35 @@
+{
+	"name" : "Map objects",
+	"description" : "New adventure map objects.",
+	"version" : "1.0.3",
+	"author" : "Warmonger, Andruids (graphics)",
+	"contact" : "",
+	"modType" : "Objects",
+    "objects" :
+    [ 
+		"config/centralWarehouse"
+	],
+	"chinese" : {
+		"name" : "地图物体",
+		"description" : "新冒险地图物体"
+	},
+	"russian" : {
+		"name" : "Объекты карты",
+		"description" : "Новые объекты карты приключений."
+	},
+	"czech" : {
+		"name" : "Mapové objekty",
+		"description" : "Nové objekty pro mapy"
+	},
+	"compatibility" :
+	{
+		"min" : "1.4.0"
+	},
+	"changelog" :
+    {
+		"1.0.3"   : [ "Czech translation by George King" ],
+		"1.0.2"   : [ "Russian translation by Anton Sergeew" ],
+		"1.0.1"   : [ "Chinese translation" ],
+		"1.0.0"   : [ "Initial release" ]
+    }
+}

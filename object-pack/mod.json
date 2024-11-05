@@ -1,44 +1,59 @@
 {
-	"name" : "Map objects",
-	"description" : "New adventure map objects.",
-	"version" : "1.0.3",
-	"author" : "Warmonger, Andruids (graphics)",
-	"contact" : "",
+	"name" : "New objects pack",
+	"description" : "Pack of minimods contains new objects that can be found at adventure maps. PLEASE UNISTALL DUPLICATE MODS FROM LAUNCHER TO AVOID BUGS.",
+	"author" : "Various",
+	"version" : "1.0.5",
+	"contact" : "https://discord.gg/chBT42V",
 	"modType" : "Objects",
-    "objects" :
-    [ 
-		"config/centralWarehouse"
-	],
-	"chinese" : {
-		"name" : "地图物体",
-		"description" : "新冒险地图物体",
-		"translations" : [
-			"translation/map objects/chinese.json"
-		]
-	},
-	"russian" : {
-		"name" : "Объекты карты",
-		"description" : "Новые объекты карты приключений.",
-		"translations" : [
-			"translation/map objects/russian.json"
-		]
-	},
-	"czech" : {
-		"name" : "Mapové objekty",
-		"description" : "Nové objekty pro mapy",
-		"translations" : [
-			"translation/map objects/czech.json"
-		]
-	},
 	"compatibility" :
 	{
-		"min" : "1.4.0"
+		"min" : "1.6.0"
 	},
 	"changelog" :
-    {
+	{
+		"1.0.5"   : [ "Mod reorganisation with submods" ],	
+		"1.0.4"   : [ "Polish translation by FallainBlack" ],		
+		"1.0.3"   : [ "Czech translation by George King" ],
 		"1.0.3"   : [ "Czech translation by George King" ],
 		"1.0.2"   : [ "Russian translation by Anton Sergeew" ],
 		"1.0.1"   : [ "Chinese translation" ],
 		"1.0.0"   : [ "Initial release" ]
-    }
+	},
+	"conflicts" : [
+		"abaddon-column",
+		"ballista-bank",
+		"central-warehouse",
+		"elemental-nodes",
+		"golem-factory",
+		"modern_roads-mod",
+		"wyrmsun-boats"
+	],
+	"chinese" : {
+		"name" : "New objects pack",
+		"description" : "Pack of minimods contains new objects that can be found at adventure maps.",
+		"translations" : [
+			"translations/chinese.json"
+		]
+	},
+	"russian" : {
+		"name" : "New objects pack",
+		"description" : "Pack of minimods contains new objects that can be found at adventure maps.",
+		"translations" : [
+			"translations/russian.json"
+		]
+	},
+	"czech" : {
+		"name" : "New objects pack",
+		"description" : "Pack of minimods contains new objects that can be found at adventure maps.",
+		"translations" : [
+			"translations/czech.json"
+		]
+	},
+	"polish" : {
+		"name" : "Paczka nowych obiektów",
+		"description" : "Paczka z minimodami zawierającymi nowe obiekty na mapie przygody.",
+		"translations" : [
+			"translations/polish.json"
+		]
+	}
 }

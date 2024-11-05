@@ -1,6 +1,0 @@
-{
-	"mapObject.object-pack.warehouses.centralWarehouse.name" : "Centrální skladiště",
-	"mapObject.object-pack.warehouses.centralWarehouse.rewards.0" : "{Centrální skladiště}\r\n\r\nVlastník skladiště vás rychle informuje: “Můj pane, již jsem pro vás shromáždil všechny suroviny z nedalekých produkčních míst. Přijďte prosím příští týden pro další dávku!”",
-	"mapObject.object-pack.warehouses.centralWarehouse.onVisited" : "{Centrální skladiště}\r\n\r\nVlastník skladiště se omlouvá: “Omlouvám se, pane, ale už tu nic není. Přijďte prosím příští týden!”",
-	"object.object-pack.warehouses.name" : "Centrální skladiště",
-}

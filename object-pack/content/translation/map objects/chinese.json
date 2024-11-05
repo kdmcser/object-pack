@@ -1,6 +1,0 @@
-{
-    "mapObject.object-pack.warehouses.centralWarehouse.name" : "中央仓库",
-    "mapObject.object-pack.warehouses.centralWarehouse.rewards.0" : "{中央仓库}\r\n\r\n仓库的主人赶忙告诉你：“领主，我已经为您从附近的生产点收集了所有资源。请下周再来领取新的一批吧！”",
-    "mapObject.object-pack.warehouses.centralWarehouse.onVisited" : "{中央仓库}\r\n\r\n仓库的主人道歉道：“对不起，领主，我们这里已经空了。请下周再来！”",
-    "object.object-pack.warehouses.name" : "中央仓库",
-}

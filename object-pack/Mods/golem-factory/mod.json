@@ -1,0 +1,13 @@
+{
+    "name" : "Golem Factory normal dwelling",
+    "description" : "Mod places standard Golem dwelling at random maps and offers only Iron Stone Golems at special golem dwellings",
+	"modType" : "Objects",
+    "version" : "0.0.1",
+    "author" : "Noname",
+    "contact" : "none",
+		"keepDisabled" : true,
+	"objects":
+	[
+		"config/golemFactories.json"
+	]
+}
