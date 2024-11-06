@@ -18,8 +18,8 @@
 		"1.0.1"   : [ "Update to vcmi-1.4 format" ]
     },
 	"czech" : {
-		"name" : "Skladiště balist"
-		"description" : "Nové místo kde si lze zakoupit balistu"
+		"name" : "Střelnice"
+		"description" : ""
 	},
 	"creatures" :
 	[
