@@ -9,7 +9,7 @@
 	"creatures.object-pack.ballista-bank.ballistaTurret.name.singular" : "Balista",
 	"mapObject.object-pack.abaddon-column.creatureBank.abaddonColumn.name" : "Sloup zatracení",
 	"mapObject.object-pack.abaddon-column.creatureBank.abaddonColumn.onGuarded" : "Narazil jsi na Sloup zatracení. Podvědomě cítíš, že nebezpečí, které se v něm skrývá, je mnohem větší, než se na první pohled zdá. Chceš zaútočit na strážce?",
-	"mapObject.object-pack.ballista-bank.creatureBank.ballistaBank.name" : "Skladiště balist",
+	"mapObject.object-pack.ballista-bank.creatureBank.ballistaBank.name" : "Střelnice",
 	"mapObject.object-pack.central-warehouse.warehouses.centralWarehouse.name" : "Centrální skladiště",
 	"mapObject.object-pack.central-warehouse.warehouses.centralWarehouse.rewards.0" : "{Centrální skladiště}\r\n\r\nVlastník skladiště vás rychle informuje: “Můj pane, již jsem pro vás shromáždil všechny suroviny z nedalekých produkčních míst. Přijďte prosím příští týden pro další dávku!”",
 	"mapObject.object-pack.central-warehouse.warehouses.centralWarehouse.onVisited" : "{Centrální skladiště}\r\n\r\nVlastník skladiště se omlouvá: “Omlouvám se, pane, ale už tu nic není. Přijďte prosím příští týden!”",
