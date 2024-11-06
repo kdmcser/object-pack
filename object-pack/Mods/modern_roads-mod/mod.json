@@ -9,5 +9,9 @@
 	"roads" :
 	[
 		"config/modernroads/roads.json"
-	]
+	],
+	"czech" : {
+		"name" : "Moderní cesty",
+		"description" : "Nové moderní cesty železnice, dálnice a asfaltová silnice"
+	}
 }

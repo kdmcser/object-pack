@@ -25,8 +25,8 @@
 		"description" : "Магические узлы навсегда увеличивают урон от заклинаний гостящего героя."
 	},
 	"czech" : {
-		"name" : "Elementární uzel",
-		"description" : "Magické uzly mohou trvale zvýšit sílu kouzel navštíveného hrdiny.\n\nImportováno z mapy TEW IV od Salamandre"
+		"name" : "Elementární uzly",
+		"description" : "Magické uzly mohou trvale zvýšit sílu kouzel hrdiny který je navštíví.\n\nImportováno z mapy TEW IV od Salamandre"
 	},
 	"polish" : {
 		"name" : "Węzły żywiołów",

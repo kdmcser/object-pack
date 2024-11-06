@@ -5,7 +5,11 @@
     "version" : "0.0.1",
     "author" : "Noname",
     "contact" : "none",
-		"keepDisabled" : true,
+	"keepDisabled" : true,
+	"czech" : {
+		"name" : "Továrna na golemy"
+		"description" : "Tato modifikace přidává na náhodné mapy továrnu na golemy, kde lze majímat kamenné golemy.",
+	},
 	"objects":
 	[
 		"config/golemFactories.json"
