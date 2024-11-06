@@ -2,7 +2,7 @@
 	"name" : "New objects pack",
 	"description" : "Pack of minimods contains new objects that can be found at adventure maps. PLEASE UNISTALL DUPLICATE MODS FROM LAUNCHER TO AVOID BUGS.",
 	"author" : "Various",
-	"version" : "1.0.5",
+	"version" : "1.0.6",
 	"contact" : "https://discord.gg/chBT42V",
 	"modType" : "Objects",
 	"compatibility" :
@@ -11,9 +11,10 @@
 	},
 	"changelog" :
 	{
-		"1.0.5"   : [ "Mod reorganisation with submods" ],	
-		"1.0.4"   : [ "Polish translation by FallainBlack" ],		
-		"1.0.3"   : [ "Czech translation by George King" ],
+		"1.0.6"   : [ "Updated Czech translation" ],
+		"1.0.5"   : [ "Mod reorganisation with submods" ],
+		"1.0.4"   : [ "Polish translation by FallainBlack" ],
+		"1.0.3"   : [ "Updated Czech translation" ],
 		"1.0.3"   : [ "Czech translation by George King" ],
 		"1.0.2"   : [ "Russian translation by Anton Sergeew" ],
 		"1.0.1"   : [ "Chinese translation" ],
@@ -43,8 +44,8 @@
 		]
 	},
 	"czech" : {
-		"name" : "New objects pack",
-		"description" : "Pack of minimods contains new objects that can be found at adventure maps.",
+		"name" : "Balíček nových objektů",
+		"description" : "Balíček přidává na dobrodružné mapy nové objekty, jako jsou Sloup zatracení s mocnými protivníky, Skladiště balist, centrální skladiště pro zásoby, elementální uzly posilující různé druhy magie, továrnu na golemy a různé typy lodí a moderních cest.",
 		"translations" : [
 			"translations/czech.json"
 		]
