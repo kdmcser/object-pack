@@ -12,14 +12,14 @@
 		"min" : "1.2.0"
 	},	
 	"changelog" :
-    {
+    	{
 		"1.00"   : [ "Initial release" ],
 		"1.01"   : [ "Removed yellow flag from def" ],
-        "1.02"   : [ "Update to vcmi-1.2 format" ]
-        "1.03"   : [ "Added Czech translation by George King" ]
-    },
+		"1.02"   : [ "Update to vcmi-1.2 format" ],
+		"1.03"   : [ "Added Czech translation by George King" ]
+    	},
 	"czech" : {
-		"name" : "Sloup zatracení"
+		"name" : "Sloup zatracení",
 		"description" : "Sloup zatracení, temný a prastarý monument, vyzařuje strašlivou auru zkázy. Opojný příslib moci a odměn čeká na ty, kdo se odváží vstoupit, ale démonické síly uvnitř budou chránit svá tajemství až do posledního dechu. Opravdu jsi připraven čelit temnotě?"
 	},
 	"creatures" :
