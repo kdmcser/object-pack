@@ -7,8 +7,8 @@
     "contact" : "none",
 	"keepDisabled" : true,
 	"czech" : {
-		"name" : "Továrna na golemy"
-		"description" : "Tato modifikace přidává na náhodné mapy továrnu na golemy, kde lze majímat kamenné golemy.",
+		"name" : "Továrna na golemy",
+		"description" : "Tato modifikace přidává na náhodné mapy továrnu na golemy, kde lze majímat kamenné golemy."
 	},
 	"objects":
 	[
