@@ -1,5 +1,5 @@
 {
-	"warehouses" :{	
+	"warehouse" :{	
 		"name": "Central Warehouse",
 		"handler": "configurable",
 		"types" : {
