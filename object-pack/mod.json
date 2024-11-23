@@ -2,7 +2,7 @@
 	"name" : "New objects pack",
 	"description" : "Pack of minimods contains new objects that can be found at adventure maps. PLEASE UNISTALL DUPLICATE MODS FROM LAUNCHER TO AVOID BUGS.",
 	"author" : "Various",
-	"version" : "1.1.0",
+	"version" : "1.1.1",
 	"contact" : "https://discord.gg/chBT42V",
 	"modType" : "Objects",
 	"compatibility" :
@@ -11,6 +11,7 @@
 	},
 	"changelog" :
 	{
+                "1.1.1"   : [ "Updated polish translation" ],
 		"1.1.0"   : [ "Central warehouse fix" ],
 		"1.0.9"   : [ "Updated polish translation" ],
 		"1.0.8"   : [ "Updated Czech translation", "Fixed Enahnced Ballista bank settings" ],
