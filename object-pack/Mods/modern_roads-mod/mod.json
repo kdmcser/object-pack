@@ -10,6 +10,10 @@
 	[
 		"config/modernroads/roads.json"
 	],
+	"chinese" : {
+		"name" : "现代化道路",
+		"description" : "现代化道路（铁路，高速公路和沥青路）"
+	},
 	"czech" : {
 		"name" : "Moderní cesty",
 		"description" : "Nové moderní cesty železnice, dálnice a asfaltová silnice"
