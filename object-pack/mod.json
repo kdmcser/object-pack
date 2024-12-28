@@ -34,8 +34,8 @@
 		"wyrmsun-boats"
 	],
 	"chinese" : {
-		"name" : "New objects pack",
-		"description" : "Pack of minimods contains new objects that can be found at adventure maps.",
+		"name" : "新物体包",
+		"description" : "一系列包含新物体的小模组，这些物体能在冒险地图上被找到。",
 		"translations" : [
 			"translations/chinese.json"
 		]

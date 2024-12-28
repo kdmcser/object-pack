@@ -6,6 +6,10 @@
     "author" : "Noname",
     "contact" : "none",
 	"keepDisabled" : true,
+ 	"chinese" : {
+		"name" : "魔像工厂普通巢穴",
+		"description" : "该模组将在随机地图上放置标准的魔像巢穴，仅在特殊的魔像巢穴里提供铁人和石人。"
+	},
 	"czech" : {
 		"name" : "Továrna na golemy",
 		"description" : "Tato modifikace přidává na náhodné mapy továrnu na golemy, kde lze majímat kamenné golemy."

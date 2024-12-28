@@ -17,6 +17,10 @@
 		"1.0.0"   : [ "Initial release" ],
 		"1.0.1"   : [ "Update to vcmi-1.4 format" ]
     	},
+	"chinese" : {
+		"name" : "弩车宝屋",
+		"description" : "新生物宝屋"
+	},
 	"czech" : {
 		"name" : "Střelnice",
 		"description" : ""
