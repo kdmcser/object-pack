@@ -6,6 +6,9 @@
 	"contact":"none",
 	"modType":"Graphical",
 	"keepDisabled" : true,
+	"conflicts" : [
+		"pvp-balance"
+	],
 	"roads" :
 	[
 		"config/modernroads/roads.json"
