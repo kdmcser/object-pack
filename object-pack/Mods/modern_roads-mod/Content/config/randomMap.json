@@ -18,7 +18,7 @@
   },
   "minGuardStrength" : 2000,
   "defaultRoadType" : "autobannRoad",
-  "secondaryRoadType": "asphaltRoad"
+  "secondaryRoadType": "asphaltRoad",
   "treasureValueLimit" : 20000, //generate pandora with gold for treasure above this limit
   "prisons" :
   {
