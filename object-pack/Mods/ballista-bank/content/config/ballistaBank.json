@@ -6,8 +6,8 @@
 				"templates": {
 					"base": {
 						"animation": "ShootRange",
-						"visitableFrom": ["+++", "+++", "+++"],
-						"mask": ["VVVV", "VBBA"]
+						"mask": ["VVVVV", "VVBBB", "VVBBA"],
+						"visitableFrom": ["---", "-++", "+++"]
 					}
 				},
 				"aiValue" : 11000,
